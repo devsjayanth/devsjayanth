@@ -25,24 +25,17 @@ IT Admin turned DevOps enthusiast 🚀 — I've spent 4+ years managing systems 
 
 ## 🛠️ Tech I Work With
 
-**Cloud ☁️**
-- AWS — EC2 · VPC · S3 · IAM
+**Cloud ☁️** - AWS — EC2 · VPC · S3 · IAM
 
-**Containers 🐳**
-- Docker · Kubernetes
+**Containers 🐳** - Docker · Kubernetes
 
-**CI/CD 🔁**
-- Jenkins · GitHub Actions · Git
+**CI/CD 🔁** - Jenkins · GitHub Actions · Git
 
-**Automation & IaC 🏗️**
-- Ansible · Terraform · Bash
+**Automation & IaC 🏗️** - Ansible · Terraform · Bash
 
-**OS 🐧**
-- Linux · Windows
+**OS 🐧** - Linux · Windows
 
-**Hypervisor 🖥️**
-- Proxmox
-
+**Hypervisor 🖥️** - Proxmox
 ---
 
 ## 📬 Let's Connect!
