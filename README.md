@@ -15,7 +15,6 @@ IT Admin turned DevOps enthusiast 🚀 — I've spent 4+ years managing systems 
 - ☁️ Hands-on with **AWS** (EC2, VPC, S3, IAM)
 - 🐳 Working with **Docker**, **Kubernetes**, **Jenkins** & **CI/CD pipelines**
 - 🔧 Automating things with **Ansible**, **Terraform** & **Bash**
-- 🐧 Big fan of **Linux** — it's home
 - 🌱 Actively learning and building projects in cloud infrastructure & automation
 - 🎯 Goal: Become a DevOps Engineer and keep growing with the tech
 - 📍 India
@@ -36,6 +35,7 @@ IT Admin turned DevOps enthusiast 🚀 — I've spent 4+ years managing systems 
 **OS 🐧** - Linux · Windows
 
 **Hypervisor 🖥️** - Proxmox
+
 ---
 
 ## 📬 Let's Connect!
